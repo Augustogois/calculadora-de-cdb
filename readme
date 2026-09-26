@@ -1,0 +1,23 @@
+# Calculadora de CDB
+
+Uma aplicação desktop simples, leve e intuitiva construída em Python para simular rendimentos de investimento em CDB (Certificado de Depósito Bancário), com atualização automática da taxa oficial via API do Banco Central do Brasil.
+
+---
+
+## 🚀 Funcionalidades
+
+- **Consulta Automática ao BACEN**: Obtém a taxa Selic/CDI oficial atualizada direto do Banco Central via API.
+- **Simulação Personalizada**: Permite definir o valor investido e o percentual do CDI pago pela instituição bancária.
+- **Desconto do Imposto de Renda**: Permite selecionar a alíquota de IR desejada (22.5% ou 15.0%).
+- **Detalhamento do Montante**: Exibe o rendimento do primeiro mês e do acumulado em 12 meses.
+- **Valor por Extenso**: Mostra a descrição textual por extenso para facilitar a interpretação dos resultados monetários.
+- **valor de milhoes**: E assim como bilhoes, Nao mostra por escrito.
+---
+
+## 📥 Como Baixar e Executar
+
+1. Vá até a seção [Releases](../../releases) do repositório.
+2. Faça o download do arquivo executável `main.exe`.
+3. Dê um duplo clique no arquivo para executar. **Não é necessário instalar o Python no computador.**
+
+---
